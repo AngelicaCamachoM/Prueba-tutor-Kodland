@@ -15,8 +15,10 @@ Funcionalidad
     - Se muestra un marcador en la parte superior de la pantalla para indicar la puntuación del jugador.
     - Se muestra una barra de escudo en la parte superior izquierda de la pantalla para indicar la cantidad de escudo restante del jugador.
     - El juego termina cuando el jugador pierde todo el escudo.
+ ![image](https://github.com/AngelicaCamachoM/Prueba-tutor-Kodland/assets/90934623/cf6e6184-942a-4c52-a9ac-88129b96d54a)
+ ![image-1](https://github.com/AngelicaCamachoM/Prueba-tutor-Kodland/assets/90934623/6dbb3ff0-44a9-4186-a609-22827a85c12a)
 
-    ![image](https://github.com/AngelicaCamachoM/Prueba-tutor-Kodland/assets/90934623/29f369ae-24a3-45b1-9b74-31224fc7679d)
+    
 
     
 
