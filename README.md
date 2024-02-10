@@ -16,8 +16,9 @@ Funcionalidad
     - Se muestra una barra de escudo en la parte superior izquierda de la pantalla para indicar la cantidad de escudo restante del jugador.
     - El juego termina cuando el jugador pierde todo el escudo.
 
-    ![alt text](image.png)
-    ![alt text](image-1.png)
+    ![image](https://github.com/AngelicaCamachoM/Prueba-tutor-Kodland/assets/90934623/29f369ae-24a3-45b1-9b74-31224fc7679d)
+
+    
 
 Requisitos
 Para ejecutar este proyecto, es necesario tener instalado Python y el módulo Pygame. El proyecto incluye las siguientes imágenes y sonidos:
